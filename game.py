@@ -41,4 +41,4 @@ while answer != "guess":
     else:
         print ("you guessed it!")
         break
-    print
+    print("")
